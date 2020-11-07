@@ -1,0 +1,15 @@
+server:
+  port: 18086
+  servlet:
+    session:
+      timeout: PT30M
+
+spring:
+  datasource:
+      username: root
+      url: jdbc:mysql://117.135.81.154:3306/tm?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=GMT%2B8
+      password: zhangmq
+      driver-class-name: com.mysql.cj.jdbc.Driver
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
