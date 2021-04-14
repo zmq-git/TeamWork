@@ -5,3 +5,5 @@
 <img src="https://github.com/zmq-git/TeamWork/blob/eefab58d299179da2475553b609ad2d6cffe396e/images/1.png" align="center">
 
 ## 项目效果图
+<img src="https://github.com/zmq-git/TeamWork/blob/3c0f326fd7308cdae2267dd46a94a5f3bde7ecfe/images/2.png" align="center">
+
