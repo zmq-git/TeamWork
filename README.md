@@ -4,6 +4,13 @@
 
 <img src="https://github.com/zmq-git/TeamWork/blob/eefab58d299179da2475553b609ad2d6cffe396e/images/1.png" align="center">
 
-## 项目效果图
+## 项目流程图
 <img src="https://github.com/zmq-git/TeamWork/blob/3c0f326fd7308cdae2267dd46a94a5f3bde7ecfe/images/2.png" align="center">
 
+## 项目效果图
+首先，不同的用户在登录成功之后，根据不同的角色，会看到不同的系统菜单，完整菜单如下：
+<img src="https://github.com/zmq-git/TeamWork/blob/465a0eb9f148d7478a86efc48374a5d4338a4ed3/images/3.png" align="center">
+项目卡片模块：
+<img src="https://github.com/zmq-git/TeamWork/blob/465a0eb9f148d7478a86efc48374a5d4338a4ed3/images/4.png" align="center">
+项目列表模块：
+<img src="https://github.com/zmq-git/TeamWork/blob/465a0eb9f148d7478a86efc48374a5d4338a4ed3/images/5.png" align="center">
